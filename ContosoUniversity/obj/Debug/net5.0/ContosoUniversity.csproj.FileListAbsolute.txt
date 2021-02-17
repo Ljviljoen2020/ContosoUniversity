@@ -10,6 +10,7 @@ C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Con
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.pdb
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
@@ -155,6 +156,11 @@ C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Raz
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Create.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cache
@@ -165,9 +171,3 @@ C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Con
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ref\ContosoUniversity.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Create.cshtml.g.cs
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Delete.cshtml.g.cs
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
