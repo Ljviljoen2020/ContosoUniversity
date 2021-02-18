@@ -181,3 +181,6 @@ C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Raz
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Instructors\Create.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Instructors\Delete.cshtml.g.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Instructors\Edit.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Departments\Edit.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Departments\Index.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Departments\Delete.cshtml.g.cs
