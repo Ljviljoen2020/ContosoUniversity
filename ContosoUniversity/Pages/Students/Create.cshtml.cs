@@ -41,17 +41,18 @@ namespace ContosoUniversity.Pages.Students
                 await _context.SaveChangesAsync();
                 return RedirectToPage("./Index");
             }
-            return Page();
-
-            if (!ModelState.IsValid)
+        
+           if (!ModelState.IsValid)
             {
                 return Page();
             }
+          
 
             _context.Students.Add(Student);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");
+     
         }
     }
 }
