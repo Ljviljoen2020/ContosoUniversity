@@ -1,10 +1,3 @@
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfoInputs.cache
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfo.cs
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CoreCompileInputs.cache
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cache
-C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\appsettings.json
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.exe
@@ -145,6 +138,13 @@ C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\run
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cs
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.Manifest.cache
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.xml
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\scopedcss\bundle\ContosoUniversity.styles.css
@@ -172,3 +172,5 @@ C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Con
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ref\ContosoUniversity.dll
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Index.cshtml.g.cs
+C:\Users\Doom\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Instructors\Index.cshtml.g.cs
